@@ -1,0 +1,13 @@
+package coins;
+import java.util.Scanner;
+
+public class ChangeCoinsCalc {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Hello, welcome to the change calculator app.\n Please enter an integer 0-99 for the amount of cents you wish to calculate: !");
+		
+	}
+
+}
